@@ -46,31 +46,31 @@
 
 - In this approach, whenever any data is requested if that data is available in cache it is returned, if not available the data is fetched from database by the application and stored in cache for future usage it is also called lazy loading.
 
-![Alt text](../images/cache-aside.png "Cache-Aside")
+![Cache Aside](cache-aside.png)
 
 ### Read-Through
 
 - In this approach, when the data request comes the application checks the cache first if available return it, if the data doesn't exist in cache then cache goes to database loads the data in it and return the data to application.
 
-![Alt text](../images/read-through.png "Read-Through")
+![Read Through](read-through.png)
 
 ### Write-Through
 
 - In this mechanism, the application writes or loads the data in both cache and database simultaneously. However, it slows down write operations because of double the time write operation.
 
-![Alt text](../images/write-through.png "Write-Through")
+![Write Through](write-through.png)
 
 ### Write-Back
 
 - In this mechanism, the application writes the data in cache first and after some delay the data is written into the database.
 
-![Alt text](../images/write-back.png "Write-Back")
+![Write Back](write-back.png)
 
 ### Write-Around
 
 - Write-Around mechanism combines with a Read-Through caching approach or Cache-Aside strategy. The application always writes the data into the database and reads data from the cache. If there's a cache miss, the data is fetched from the database and then stored in the cache for future reads. This strategy works best when data is rarely updated and read in more often.
 
-![Alt text](../images/write-around.png "Write-Around")
+![Write Around](write-around.png)
 
 ---
 
