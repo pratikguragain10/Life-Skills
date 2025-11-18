@@ -80,5 +80,6 @@
 - https://www.geeksforgeeks.org/dbms/what-is-caching-strategies-in-dbms/
 - https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html
 - https://www.youtube.com/watch?v=6FyXURRVmR0
+- https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown
 
 ---
