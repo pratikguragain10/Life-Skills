@@ -4,7 +4,7 @@
 
 ## Question 1 (Grit)
 
-### Summarize Grit Video.
+### Summarize Grit Video
 
 - The pathway to success is through grit.
 - Acquiring grit means sticking with your future day in day out-not just for week, not just for months, but for years-and working hard to make that future a reality.
@@ -15,7 +15,7 @@
 
 ## Question 2 (Growth Mindset)
 
-### Summarize Introduction to Growth Mindset Video.
+### Summarize Introduction to Growth Mindset Video
 
 - Mindests have major influence on people's ability to learn, and people who use a growth mindset tend to learn, grow, and achieve more over time than others.
 - Always know that you can get better-no matter your age, your achievements, or what you’ve done in your career.
