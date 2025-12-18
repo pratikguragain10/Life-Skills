@@ -2,7 +2,7 @@
 
 ---
 
-### Question 1: Which point(s) were new to you?
+### Question 1: Which points were new to you?
 
 Based on the software development practices outlined, several points were particularly insightful:
 
